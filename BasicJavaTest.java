@@ -22,13 +22,11 @@ public class BasicJavaTest{
 
         //System.out.println(iD.oddArr(1,255));
 
-        /*BasicJava iD = new BasicJava();
-        int[] x = {1,3,5,7};
+        /*int[] x = {1,3,5,7};
         int y = 3;
         System.out.println(iD.greaterY(x,y));*/
 
-        /*BasicJava iD = new BasicJava();
-        int[] x = {1,5,10,-2};
+        /*int[] x = {1,5,10,-2};
         System.out.println(Arrays.toString(iD.squareArr(x)));*/
 
         /*int[] x = {1,5,2,-10};
